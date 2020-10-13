@@ -1,0 +1,60 @@
+.toolbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 56px;
+  z-index: 10;
+}
+
+.toolbar_navigation {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  padding: 0 1rem;
+}
+
+.toolbar_logo a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+.toolbar_navigation-itemes ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.toolbar_navigation-itemes li {
+  padding: 0 0.5em;
+}
+
+.toolbar_navigation-itemes {
+  color: white;
+  text-decoration: none;
+}
+
+.toolbar_navigation-itemes a {
+  color: white;
+}
+
+.toolbar_navigation-itemes a:hover,
+.toolbar_navigation-itemes a:active {
+  color: blue;
+}
+
+.spacer {
+  flex: 1;
+}
+
+.toolbar_logo {
+  margin-left: auto;
+  width: 3.5em;
+}
+
+.como {
+  padding: 15px; /* firefox bug fix */
+  width: 3.5em;
+}

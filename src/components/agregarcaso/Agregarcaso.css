@@ -1,0 +1,36 @@
+.text{
+
+        margin: 10px;
+        color: rgb(49, 119, 59);
+      
+}
+
+.container ul{
+    font-weight: bold;
+    
+}
+.container a {
+    margin-right: 100pc;
+    
+}
+.container ul li{
+    font-size: 30px;
+}
+
+.container ul li a{
+    color: black;
+}
+
+.container .color{
+    color:red;
+}
+
+.container .color1{
+    color:orange;
+}
+.container .color2{
+    color:green;
+}
+.container .color3{
+    color:black;
+}

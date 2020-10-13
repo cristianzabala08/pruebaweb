@@ -1,0 +1,33 @@
+.container a {
+    margin-right: 100pc;
+    
+}
+
+.container p {
+    font-weight: bold;
+}
+
+.form-group input{
+    height: 42px;
+    font-size: 18px;
+    padding-left: 54px;
+    border-radius: 5px;
+}
+
+
+
+.row .form-group select{
+    margin-left: 10px;
+    height: 30px;
+    width: auto;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.form-group .select{
+    height: 42px;
+    font-size: 18px;
+    padding-left: 54px;
+    border-radius: 5px;
+    width: 100%;
+}
